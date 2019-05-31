@@ -21,3 +21,10 @@ This is another tensorflow version of voxelmorph.
 	year={2018}
 }
 
+
+# Setup
+
+export PYTHONPATH=$PYTHONPATH:/path/to/voxelmorph/ext/neuron/
+:/path/to/voxelmorph-tf-new/pynd-lib/
+:/path/to/voxelmorph-tf-new/pytools-lib/
+:/path/to/voxelmorph-tf-new/medipy-lib/
