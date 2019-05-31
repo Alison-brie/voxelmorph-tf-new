@@ -24,7 +24,7 @@ This is another tensorflow version of voxelmorph.
 
 # Setup
 
-export PYTHONPATH=$PYTHONPATH:/path/to/voxelmorph/ext/neuron/
+export PYTHONPATH=$PYTHONPATH:/path/to/voxelmorph/neuron/
 
 :/path/to/voxelmorph-tf-new/pynd-lib/
 
